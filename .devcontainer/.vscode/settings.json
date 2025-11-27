@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "/home/codespace/.javafx/javafx-sdk-21.0.2/lib/*.jar"
+    ]
+}
